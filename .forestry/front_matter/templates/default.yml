@@ -22,3 +22,11 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: text
+  default: Author
+  label: Author
+  name: author
+  description: Helps you add the Author name
+  config:
+    required: true
+  hidden: false
