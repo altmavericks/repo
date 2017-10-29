@@ -3,33 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://altmavericks.github.io/post/test/</loc>
+    <loc>https://altmavericks.github.io/repo/post/test/</loc>
     <lastmod>2017-10-29T11:55:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://altmavericks.github.io/post/hello/</loc>
+    <loc>https://altmavericks.github.io/repo/post/hello/</loc>
     <lastmod>2017-10-29T11:41:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://altmavericks.github.io/categories/</loc>
+    <loc>https://altmavericks.github.io/repo/post/3/</loc>
+    <lastmod>2017-10-28T17:02:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://altmavericks.github.io/repo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://altmavericks.github.io/post/</loc>
+    <loc>https://altmavericks.github.io/repo/post/</loc>
     <lastmod>2017-10-29T11:55:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://altmavericks.github.io/tags/</loc>
+    <loc>https://altmavericks.github.io/repo/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://altmavericks.github.io/</loc>
+    <loc>https://altmavericks.github.io/repo/</loc>
     <lastmod>2017-10-29T11:55:14+00:00</lastmod>
     <priority>0</priority>
   </url>
