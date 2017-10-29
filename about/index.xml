@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on altMavericks</title>
+    <link>https://altmavericks.github.io/repo/about/</link>
+    <description>Recent content in Abouts on altMavericks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2017 12:34:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://altmavericks.github.io/repo/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://altmavericks.github.io/repo/about/about/</link>
+      <pubDate>Sun, 29 Oct 2017 12:34:31 +0800</pubDate>
+      
+      <guid>https://altmavericks.github.io/repo/about/about/</guid>
+      <description>MAVs : Adrian, Sebastian, Ian, PK</description>
+    </item>
+    
+  </channel>
+</rss>
