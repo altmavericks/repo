@@ -1,7 +1,7 @@
 baseURL = "https://altmavericks.github.io/repo/"
 languageCode = "en-us"
 title = "altMavericks"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
