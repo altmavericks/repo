@@ -1,0 +1,4 @@
+baseURL = "https://altmavericks.github.io"
+languageCode = "en-us"
+title = "altMavericks"
+theme = "ananke"
