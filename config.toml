@@ -1,6 +1,7 @@
 DefaultContentLanguage = "en"
 MetaDataFormat = "yaml"
 Paginate = 3
+disqusShortname = "yourdiscussshortname"
 SectionPagesMenu = "main"
 baseURL = "https://altmavericks.github.io/repo/"
 enableRobotsTXT = true
