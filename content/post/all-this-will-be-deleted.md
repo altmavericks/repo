@@ -12,6 +12,8 @@ author: altMavericks
 
 4. lkdlkl
 
+---
+
     package main 
     
     import "fmt"
