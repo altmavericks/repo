@@ -1,9 +1,9 @@
 DefaultContentLanguage = "en"
 MetaDataFormat = "yaml"
 Paginate = 3
-disqusShortname = "yourdiscussshortname"
 SectionPagesMenu = "main"
 baseURL = "https://altmavericks.github.io/repo/"
+disqusShortname = "yourdiscussshortname"
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
@@ -18,7 +18,7 @@ featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 github = ""
 instagram = ""
 linkedin = ""
-twitter = "https://twitter.com/GoHugoIO"
+twitter = "https://twitter.com"
 youtube = ""
 [sitemap]
 changefreq = "monthly"
