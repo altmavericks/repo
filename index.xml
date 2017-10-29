@@ -21,10 +21,7 @@
  kjdkj
  ldklkj
  lkdlkl
-package main
-import &amp;ldquo;fmt&amp;rdquo;
-func main(){ fmt.Println(&amp;ldquo;Hello World&amp;rdquo;) }
-  </description>
+  package main import &amp;quot;fmt&amp;quot; func main(){ fmt.Println(&amp;quot;Hello World&amp;quot;) }  </description>
     </item>
     
     <item>
