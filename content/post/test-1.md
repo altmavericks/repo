@@ -6,4 +6,4 @@ author: Prasanna K
 ---
 {{<youtube wBRnzPuwepA>}}
 
-Amazing Video
+> > Amazing Video  : To embed a video : {{<youtube wBRnzPuwepA>}}
