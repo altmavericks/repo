@@ -9,6 +9,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 theme = "ananke"
 title = "altMavericks"
+AuthorName: "altMavericks"
 [params]
 background_color_class = "bg-black"
 description = "The Best brains inTown"
