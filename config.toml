@@ -1,4 +1,4 @@
-baseURL = "https://altmavericks.github.io"
+baseURL = "https://altmavericks.github.io/repo/"
 languageCode = "en-us"
 title = "altMavericks"
 theme = "ananke"
