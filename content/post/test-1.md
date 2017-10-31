@@ -6,4 +6,16 @@ author: Prasanna K
 ---
 {{<youtube wBRnzPuwepA>}}
 
-> > Amazing Video  : To embed a video : {{<youtube wBRnzPuwepA>}}
+Amazing Video
+
+This is Second Test ...
+
+![](/images/gohugo-default-sample-hero-image.jpg)![]()
+
+> Quotes 
+
+1. dlkd
+
+2. lsdkls
+
+3. sdj
