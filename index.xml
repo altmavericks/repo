@@ -6,10 +6,24 @@
     <description>Recent content on altMavericks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Oct 2017 21:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 03:40:06 +0000</lastBuildDate>
     
 	<atom:link href="https://altmavericks.github.io/repo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DEMO</title>
+      <link>https://altmavericks.github.io/repo/post/demo/</link>
+      <pubDate>Tue, 31 Oct 2017 03:40:06 +0000</pubDate>
+      
+      <guid>https://altmavericks.github.io/repo/post/demo/</guid>
+      <description>This is Test &amp;hellip;
+{{youtube RDMMJGgIZkfpyio}}
+ kajksajs
+  dksd
+ lskdls
+   </description>
+    </item>
     
     <item>
       <title>All this will be Deleted</title>
