@@ -33,3 +33,9 @@ fields:
   config:
     required: true
   hidden: false
+- type: textarea
+  name: '1'
+  label: '1'
+  config:
+    required: true
+    wysiwyg: true
