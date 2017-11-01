@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://altmavericks.github.io/repo/post/infosec/</loc>
+    <lastmod>2017-10-31T19:48:57+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://altmavericks.github.io/repo/post/demo/</loc>
     <lastmod>2017-10-31T03:40:06+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -80,7 +87,7 @@
   
   <url>
     <loc>https://altmavericks.github.io/repo/post/</loc>
-    <lastmod>2017-10-31T03:40:06+00:00</lastmod>
+    <lastmod>2017-10-31T19:48:57+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -93,7 +100,7 @@
   
   <url>
     <loc>https://altmavericks.github.io/repo/</loc>
-    <lastmod>2017-10-31T03:40:06+00:00</lastmod>
+    <lastmod>2017-10-31T19:48:57+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
